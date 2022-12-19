@@ -1,2 +1,1 @@
-# Code Refactor
-## The horiseon-web-co module displays web accessibility.
+# Code Refactor Starter Code
