@@ -10,7 +10,8 @@
 - git pull origin main
 
 ## Screenshot 
-- 
+- https://github.com/Danny2727/horiseon-web-co/blob/main/assets/images/Screenshot%202023-01-12%20at%2010.30.57%20PM.png?raw=true 
+
 ## Website Link
 -  https://danny2727.github.io/horiseon-web-co/
 
